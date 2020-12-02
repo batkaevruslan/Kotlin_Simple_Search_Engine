@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/A small version of the Battleship game/out/
+/Problems/A small version of the Battleship game/out/production/classes/
+/Problems/Create an euphonious word/out/
+/Problems/Create an euphonious word/out/production/classes/
+/Problems/The first position of the largest element/out/
+/Problems/The first position of the largest element/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
