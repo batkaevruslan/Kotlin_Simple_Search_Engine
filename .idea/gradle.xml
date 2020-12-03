@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -12,11 +13,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/A small version of the Battleship game" />
+            <option value="$PROJECT_DIR$/Problems/Bank account" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
+            <option value="$PROJECT_DIR$/Problems/Car price" />
             <option value="$PROJECT_DIR$/Problems/Convert a date" />
             <option value="$PROJECT_DIR$/Problems/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Problems/Currency comparision" />
+            <option value="$PROJECT_DIR$/Problems/Deposit" />
             <option value="$PROJECT_DIR$/Problems/First digit" />
+            <option value="$PROJECT_DIR$/Problems/Fix an error" />
             <option value="$PROJECT_DIR$/Problems/From string to a number" />
+            <option value="$PROJECT_DIR$/Problems/Library" />
             <option value="$PROJECT_DIR$/Problems/Lucky number" />
+            <option value="$PROJECT_DIR$/Problems/Most common" />
+            <option value="$PROJECT_DIR$/Problems/Pets" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
             <option value="$PROJECT_DIR$/Problems/String processor" />
             <option value="$PROJECT_DIR$/Problems/The first position of the largest element" />
